@@ -162,7 +162,7 @@ Business and consulting platform.
 
 📧 **Email:** Priyanshukumar20113@gmail.com
 
-💼 **LinkedIn:** Coming soon
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/priyanshu019/)
 
 🌐 **Portfolio:** Coming soon
 
