@@ -84,15 +84,67 @@ Cross-platform mobile fitness application with a React Native/Expo frontend and 
 
 ## 💼 Real-World Product Experience
 
-I've worked on products across multiple domains, including:
+I've worked on real-world products across AI, education, healthcare, fitness, social platforms, and business applications.
 
-- 🤖 AI & Creative Technology
-- 🎓 Education Technology
-- 🏥 Healthcare & Elder Care
-- 🧘 Fitness & Wellness
-- 🤝 Social & Professional Networking
-- 🛒 Marketplace & Business Platforms
-- ☁️ SaaS Applications
+### 🤖 Kaizora
+AI-powered creative technology platform.
+
+**Website:** https://kaizora.ai/
+
+---
+
+### 🤝 Milnzo
+Social and professional networking platform with location-aware experiences and user matching.
+
+**Website:** https://www.milnzo.co/
+
+---
+
+### 🏥 AIVO Care
+Healthcare and elder-care assistance platform connecting users with support services.
+
+**Website:** https://aivocare.in/
+
+---
+
+### 🎓 EduTech NZ
+Education and international education services platform.
+
+**Website:** https://www.edutech.co.nz/
+
+---
+
+### 🧘 Ekam Yoga
+Mobile wellness and yoga application.
+
+**Platform:** Android
+
+**Google Play:** https://play.google.com/store/apps/details?id=com.primedepthlabs.ekamyoga
+
+---
+
+### 💪 Fitwiser
+Fitness and wellness mobile application.
+
+**Platform:** Android
+
+**Google Play:** https://play.google.com/store/apps/details?id=com.harjaap.fitwiserapp
+
+---
+
+### 📚 Maths by Vartak Sir
+Educational mobile application focused on mathematics learning.
+
+**Platform:** Android
+
+**Google Play:** https://play.google.com/store/apps/details?id=com.primedepthlabs.mathsbyvartaksir
+
+---
+
+### 💼 Venatic Consulting
+Business and consulting platform.
+
+**Website:** https://venaticconsulting.in/
 
 ---
 
